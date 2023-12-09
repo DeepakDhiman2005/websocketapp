@@ -1,5 +1,5 @@
 // web socket connection!
-const socket = new WebSocket("ws://websocketapp.onrender.com/");
+const socket = new WebSocket("https://websocketapp.onrender.com/");
 
 // get elements
 const inp = document.getElementById("inp");
